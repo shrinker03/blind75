@@ -1,4 +1,4 @@
-/*
+/*  *** Level => 2/5 *** => Need to revisit this soon
 
 **Problem:** Find the length of the longest consecutive sequence in an unsorted array.
 
