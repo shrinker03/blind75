@@ -1,5 +1,5 @@
 
-/*
+/* *** Level => 5/5 *** => Just skim through would be good enough
 
 **Problem:** Given an array, determine if any element appears more than once.
 

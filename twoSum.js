@@ -1,4 +1,4 @@
-/*
+/* *** Level => 5/5 *** => Just skim through would be good enough
 
 **Problem:** Find two numbers in an array that sum up to a given target and return their indices.
 

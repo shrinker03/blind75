@@ -1,4 +1,4 @@
-/*
+/* *** Level => 4/5 *** => Good to revisit
 
 **Problem:** Check if two strings are anagrams (contain the same characters in the same frequency).
 
