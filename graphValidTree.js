@@ -1,4 +1,4 @@
-/* Level - 4/5 => Can be skipped if recall 
+/* Level - 4/5 => Can be skipped if recall
 
 🧠 Problem: Graph Valid Tree
 Platform: LintCode / LeetCode 261
