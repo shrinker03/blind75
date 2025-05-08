@@ -1,4 +1,4 @@
-/* Level => 4/5 => If done previous, this can be skipped
+/* Level => 4/5 => If done previous question, this can be skipped
 
 🧠 Problem: Count Substrings (Palindromic)
 Leetcode: 647. Palindromic Substrings
